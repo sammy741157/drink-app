@@ -1,27 +1,118 @@
 {
   "drinks": [
-    { "id": 1, "name": "Mango Smoothie", "image": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D" },
-    { "id": 2, "name": "Strawberry Shake", "image": "https://plus.unsplash.com/premium_photo-1695927469809-d19eba174dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
-    { "id": 3, "name": "Pineapple Juice", "image": "https://images.unsplash.com/photo-1631065565414-c810ce96f078?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGluZWFwcGxlJTIwanVpY2V8ZW58MHx8MHx8fDA%3D" },
-    { "id": 4, "name": "Lemonade", "image": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxlbW9uYWRlfGVufDB8fDB8fHww" },
-    { "id": 5, "name": "Iced Tea", "image": "https://plus.unsplash.com/premium_photo-1664392087859-815b337c3324?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SWNlZCUyMHRlYXxlbnwwfHwwfHx8MA%3D%3D" },
-    { "id": 6, "name": "Cappuccino", "image": "https://plus.unsplash.com/premium_photo-1674406102318-c9d362ad510b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2FwcHVjaW5vfGVufDB8fDB8fHww" },
-    { "id": 7, "name": "Espresso", "image": "https://plus.unsplash.com/premium_photo-1675435644687-562e8042b9db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RXNwcmVzc298ZW58MHx8MHx8fDA%3D" },
-    { "id": 8, "name": "Mocha", "image": "https://plus.unsplash.com/premium_photo-1668970851336-6c81cc888ba7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9jaGF8ZW58MHx8MHx8fDA%3D" },
-    { "id": 9, "name": "Latte", "image": "https://plus.unsplash.com/premium_photo-1674327105280-b86494dfc690?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGF0dGV8ZW58MHx8MHx8fDA%3D" },
-    { "id": 10, "name": "Hot Chocolate", "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SG90JTIwY2hvY29sYXRlfGVufDB8fDB8fHww" },
-    { "id": 11, "name": "Orange Juice", "image": "https://plus.unsplash.com/premium_photo-1675667390417-d9d23160f4a6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3JhbmdlJTIwanVpY2V8ZW58MHx8MHx8fDA%3D" },
-    { "id": 12, "name": "Coconut Water", "image": "https://plus.unsplash.com/premium_photo-1680497044033-5dc96f699b81?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29jb251dCUyMHdhdGVyfGVufDB8fDB8fHww" },
-    { "id": 13, "name": "Watermelon Juice", "image": "https://images.unsplash.com/photo-1597306691225-69ef217a43cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2F0ZXJtZWxvbiUyMGp1aWNlfGVufDB8fDB8fHww" },
-    { "id": 14, "name": "Iced Coffee", "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aUNlZCUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D" },
-    { "id": 15, "name": "Black Tea", "image": "https://plus.unsplash.com/premium_photo-1674406481284-43eba097a291?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmxhY2slMjB0ZWF8ZW58MHx8MHx8fDA%3D" },
-    { "id": 16, "name": "Green Tea", "image": "https://plus.unsplash.com/premium_photo-1694540110936-c4ba0029c4d8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8R3JlZW4lMjB0ZWF8ZW58MHx8MHx8fDA%3D" },
-    { "id": 17, "name": "Berry Blast", "image": "https://images.unsplash.com/photo-1600718374662-0483d2b9da44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVycnklMjBibGFzdCUyMHNoYWtlfGVufDB8fDB8fHww" },
-    { "id": 18, "name": "Avocado Shake", "image": "https://plus.unsplash.com/premium_photo-1726852751697-2d1157466e44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZvY2FkbyUyMHNoYWtlfGVufDB8fDB8fHww" },
-    { "id": 19, "name": "Mint Lemonade", "image": "https://images.unsplash.com/photo-1623157980612-da2c2cdb4c0b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWludCUyMGxlbW9uYWRlfGVufDB8fDB8fHww" },
-    { "id": 20, "name": "Tropical Mix", "image": "https://images.unsplash.com/photo-1642522538458-0ece1670d495?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    {
+      "id": "1",
+      "name": "Mango Smoothie",
+      "image": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D"
+    },
+    {
+      "id": "2",
+      "name": "Strawberry Shake",
+      "image": "https://plus.unsplash.com/premium_photo-1695927469809-d19eba174dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3",
+      "name": "Pineapple Juice",
+      "image": "https://images.unsplash.com/photo-1631065565414-c810ce96f078?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGluZWFwcGxlJTIwanVpY2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "4",
+      "name": "Lemonade",
+      "image": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxlbW9uYWRlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "5",
+      "name": "Iced Tea",
+      "image": "https://plus.unsplash.com/premium_photo-1664392087859-815b337c3324?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SWNlZCUyMHRlYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "image": "https://plus.unsplash.com/premium_photo-1674406102318-c9d362ad510b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2FwcHVjaW5vfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "7",
+      "name": "Espresso",
+      "image": "https://plus.unsplash.com/premium_photo-1675435644687-562e8042b9db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RXNwcmVzc298ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "8",
+      "name": "Mocha",
+      "image": "https://plus.unsplash.com/premium_photo-1668970851336-6c81cc888ba7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9jaGF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "9",
+      "name": "Latte",
+      "image": "https://plus.unsplash.com/premium_photo-1674327105280-b86494dfc690?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGF0dGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "10",
+      "name": "Hot Chocolate",
+      "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SG90JTIwY2hvY29sYXRlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "11",
+      "name": "Orange Juice",
+      "image": "https://plus.unsplash.com/premium_photo-1675667390417-d9d23160f4a6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3JhbmdlJTIwanVpY2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "12",
+      "name": "Coconut Water",
+      "image": "https://plus.unsplash.com/premium_photo-1680497044033-5dc96f699b81?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29jb251dCUyMHdhdGVyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "13",
+      "name": "Watermelon Juice",
+      "image": "https://images.unsplash.com/photo-1597306691225-69ef217a43cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2F0ZXJtZWxvbiUyMGp1aWNlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "14",
+      "name": "Iced Coffee",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aUNlZCUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "15",
+      "name": "Black Tea",
+      "image": "https://plus.unsplash.com/premium_photo-1674406481284-43eba097a291?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmxhY2slMjB0ZWF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "16",
+      "name": "Green Tea",
+      "image": "https://plus.unsplash.com/premium_photo-1694540110936-c4ba0029c4d8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8R3JlZW4lMjB0ZWF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "17",
+      "name": "Berry Blast",
+      "image": "https://images.unsplash.com/photo-1600718374662-0483d2b9da44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVycnklMjBibGFzdCUyMHNoYWtlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "18",
+      "name": "Avocado Shake",
+      "image": "https://plus.unsplash.com/premium_photo-1726852751697-2d1157466e44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZvY2FkbyUyMHNoYWtlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "19",
+      "name": "Mint Lemonade",
+      "image": "https://images.unsplash.com/photo-1623157980612-da2c2cdb4c0b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWludCUyMGxlbW9uYWRlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "20",
+      "name": "Tropical Mix",
+      "image": "https://images.unsplash.com/photo-1642522538458-0ece1670d495?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "id": "19",
+      "name": "Mint Lemonade",
+      "image": "https://images.unsplash.com/photo-1623157980612-da2c2cdb4c0b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TWludCUyMGxlbW9uYWRlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "13",
+      "name": "Watermelon Juice",
+      "image": "https://images.unsplash.com/photo-1597306691225-69ef217a43cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2F0ZXJtZWxvbiUyMGp1aWNlfGVufDB8fDB8fHww"
+    }
+  ],
   "orders": [],
   "users": []
 }
