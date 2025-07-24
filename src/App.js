@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import UserDashboard from './components/UserDashboard';
+import UserDashboard from './Components/UserDashboard';
 import AdminDashboard from './components/AdminDashboard';
 import './App.css';
 
