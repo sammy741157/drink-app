@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import UserDashboard from './UserDashboard';
-import AdminDashboard from './AdminDashboard';
+import UserDashboard from './Components/UserDashboard';
+import AdminDashboard from './components/AdminDashboard';
 import './App.css';
 
 const App = () => {
