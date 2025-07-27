@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import UserDashboard from './UserDashboard';
-import AdminDashboard from './AdminDashboard';
+import UserDashboard from './components/UserDashboard';
+import AdminDashboard from './components/AdminDashboard';
 import './App.css';
 
 const App = () => {
@@ -58,7 +58,7 @@ const App = () => {
   return (
     <Router>
       <div className="app-container">
-        <h1>Drink App 🍹</h1>
+        <h1>Drink App </h1>
 
         <nav className="nav-links">
           <Link to="/">User View</Link> | <Link to="/admin">Admin View</Link>
